@@ -6,7 +6,7 @@ This Java application was developed as part of a User Interface course. The goal
 
 # Screenshots
 
-![Home page](./public/home_page.png)
+![Home page](https://github.com/oschweitzer/restaurant-management/blob/master/public/home_page.PNG)
 
 
-![Add items](./public/add_items.png)
+![Add items](https://github.com/oschweitzer/restaurant-management/blob/master/public/add_items.PNG)
